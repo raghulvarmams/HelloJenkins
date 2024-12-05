@@ -2,5 +2,5 @@
 Console.WriteLine("Hello, World!");
 for (int i = 1; i < 10; i++)
 {
-    Console.WriteLine($"Executed {i} Times");
+    Console.WriteLine($"Hi, Executed {i} Times");
 }
